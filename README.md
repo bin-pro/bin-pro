@@ -1,17 +1,22 @@
 <div align="center">
   
 ![CRUMBLE](https://github.com/bin-pro/bin-pro/blob/main/images/readme_photo.jpeg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=cfcfae&height=250&section=header&text=I'm%20SUBIN&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Currently%20interested%20in%20DevOps%20and%20healthy%20mindset&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=cfcfae&height=250&section=header&text=SUBIN&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Currently%20interested%20in%20DevOps%20and%20healthy%20mindset&descAlignY=51&descAlign=70)
 
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheroh&show_icons=true&theme=tokyonight) -->
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=bin-pro&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=108bde" width=49.2% height=200px/>
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin-pro&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=108bde" width=49.2% height=200px"
-</a>
+<!--
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=bin-pro&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=108bde" width=49.2% height=200px/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bin-pro&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=108bde" width=49.2% height=200px"
+  </a>
+
+--!>
+
 <!--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bin-pro&theme=react-dark&bg_color=20232a&hide_border=true&line=108bde&color=108bde" width=98%/>
