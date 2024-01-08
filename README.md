@@ -27,18 +27,17 @@
 <tr>
 <td align="center", width=980px>
 
-### ▶Area of concern
+<h3> ▶Area of concern </h3>
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white">
-
-</td>
-<h3><a href="https://velog.io/@subinlee/posts" target="_blank">velog.io</a></h3>
 <a href="https://velog.io/@subinlee/posts" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20A457?style=for-the-badge&logo=velog&logoColor=white">
 </a>
+</td>
+
 
 <!--
 
