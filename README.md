@@ -1,7 +1,7 @@
 <div align="center">
   
 ![CRUMBLE](https://github.com/bin-pro/bin-pro/blob/main/images/readme_photo.jpeg)
-![header](https://capsule-render.vercel.app/api?type=waving&color=cfcfae&height=250&section=header&text=SUBIN&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Currently%20interested%20in%20Finance%20and%20healthy%20mindset&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=cfcfae&height=250&section=header&text=SUBIN&fontSize=60&animation=fadeIn&fontAlignY=32&desc=Currently%20interested%20in%20'Finance'%20and%20'healthy%20mindset'&descAlignY=51&descAlign=70)
 
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asheroh&show_icons=true&theme=tokyonight) -->
 
